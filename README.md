@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I’m Meher Mankar, a budding programmer excited to learn and grow in the world of coding.  <br>🌱 Currently exploring Java, Python, C, C++, HTML5 and Linux.  <br>💡 I love tackling new challenges and discovering creative solutions.  <br>🤖 Always open to collaboration and feedback—let’s learn together!  <br>📚 Check out my projects as I embark on this coding journey.  <br>📫 Feel free to reach out if you have tips or just want to chat about tech!
 
-## 🔗 Connect with me
+## My favourite songs:
 
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://open.spotify.com/playlist/5ohw7IojcBPjS6PqEhG6Qm" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./Res/spotify.svg" /></a> 
