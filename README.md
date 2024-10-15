@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 Hi there! I’m Meher Mankar, a budding programmer excited to learn and grow in the world of coding.  <br>🌱 Currently exploring Java, Python, C, C++, HTML5 and Linux.  <br>💡 I love tackling new challenges and discovering creative solutions.  <br>🤖 Always open to collaboration and feedback—let’s learn together!  <br>📚 Check out my projects as I embark on this coding journey.  <br>📫 Feel free to reach out if you have tips or just want to chat about tech!
 
+## My favourite songs:
+
+<!-- png icons from https://iconscout.com/ -->
+<a href="https://open.spotify.com/playlist/5ohw7IojcBPjS6PqEhG6Qm" class="padded"><img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Res/spotify.svg" /></a> 
+<a
+href="https://t.me/Mehers_playlist" class="padded"><img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Res/telegram.svg" /></a> 
+</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.a.n.k.a.r) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17749586) 
