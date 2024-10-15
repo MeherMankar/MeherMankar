@@ -5,6 +5,7 @@
 
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://open.spotify.com/playlist/5ohw7IojcBPjS6PqEhG6Qm" class="padded"><img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Res/telegram.svg" /></a> 
+<a
 href="https://t.me/Mehers_playlist" class="padded"><img align="left" alt="https://t.me/MeherMankar" width="28px" src="./Res/spotify.svg" /></a> 
 </br>
 
